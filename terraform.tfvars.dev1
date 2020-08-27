@@ -1,0 +1,17 @@
+environment_name = "ODOO-Dev"
+VPC_CIDR = "10.1.0.0/16"
+PublicSubnet1 = "10.1.0.0/24"
+PublicSubnet2 = "10.1.1.0/24"
+PrivateSubnet1 = ""
+PrivateSubnet2 = ""
+region = "eu-west-2"
+dbpassword = "odoodbpassword"
+dbuser = "odoodbuser"
+dbversion = "9.6"
+odooversion = "13.0"
+ssh_key = "ODOODEVTEST"
+ssh_key_path = "ODOODEVTEST.pem"
+ec2_instance_type = "t2.micro"
+rds_instance_type = "db.t2.micro"
+
+
