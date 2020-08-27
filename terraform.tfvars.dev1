@@ -1,5 +1,5 @@
-access_key = "AKIAZ3MT7CJQCLG3EGM4"
-secret_key = "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"
+access_key = ""
+secret_key = ""
 environment_name = "ODOO-Dev"
 VPC_CIDR = "10.1.0.0/16"
 PublicSubnet1 = "10.1.0.0/24"
